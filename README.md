@@ -21,9 +21,7 @@ It analyzes historical stock prices and revenue data using:
 
 ## ✅ Status: Completed
 
-
-goo
-- 📎 [Full Notebook with Output (Google Drive)]([https://drive.google.com/file/d/1ABC/view?usp=sharing](https://drive.google.com/drive/folders/128lfjHCHfK718218lY0v-M-7PpdgV4Pb?usp=sharing))
+[Full Notebook with Output (Google Drive)](https://drive.google.com/drive/folders/128lfjHCHfK718218lY0v-M-7PpdgV4Pb?usp=sharing)
 
 
 ## 🛠 Tools Used
